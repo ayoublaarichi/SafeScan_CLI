@@ -15,8 +15,8 @@
 ## Installation
 
 ```bash
-git clone https://github.com/ayoublaarichi/SafeScan-CLI.git
-cd SafeScan-CLI
+git clone https://github.com/ayoublaarichi/SafeScan_CLI.git
+cd SafeScan_CLI
 python -m pip install -r requirements.txt
 ```
 
@@ -74,7 +74,7 @@ pytest tests/ -v
 ## Project Structure
 
 ```
-SafeScan-CLI/
+SafeScan_CLI/
 ├── main.py              # CLI entry-point (argparse)
 ├── requirements.txt
 ├── README.md
@@ -96,7 +96,7 @@ SafeScan-CLI/
     └── test_headers.py
 ```
 
-> Looking for the **web UI version**? See [SafeScan-Web](https://github.com/ayoublaarichi/SafeScan-Web).
+> Looking for the **web UI version**? See [SafeScan_WEB](https://github.com/ayoublaarichi/SafeScan_WEB).
 
 ## License
 
